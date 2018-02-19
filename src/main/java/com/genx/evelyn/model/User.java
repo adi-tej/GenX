@@ -1,14 +1,14 @@
 package com.genx.evelyn.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
 import java.util.List;
 
+
 /**
- * Created by rakeshchoudhary on 5/24/17.
+ * The type User.
  */
 @Document(collection = "user")
 public class User {

@@ -7,8 +7,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 /**
- * @author premsingh
- * Configuration class for ANDService API Application.
+ * @author adi
+ * Configuration class for GenX Application.
  */
 @Configuration
 public class GenXConfig {

@@ -25,7 +25,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import java.util.Properties;
 
 /**
- * @author premsingh SpringBoot Main class.
+ * @author adi SpringBoot Main class.
  */
 @SpringBootApplication
 public class GenXApplication {
